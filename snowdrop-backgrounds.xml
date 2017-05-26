@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+	<wallpaper deleted="false">
+		<name>Lines</name>
+		<filename>/usr/share/backgrounds/snowdrop/01.svg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Lines-alternative</name>
+		<filename>/usr/share/backgrounds/snowdrop/02.svg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Triangles</name>
+		<filename>/usr/share/backgrounds/snowdrop/03.png</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Building</name>
+		<filename>/usr/share/backgrounds/snowdrop/04.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Holes</name>
+		<filename>/usr/share/backgrounds/snowdrop/05.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Abstract</name>
+		<filename>/usr/share/backgrounds/snowdrop/06.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Coast</name>
+		<filename>/usr/share/backgrounds/snowdrop/07.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Ginkgo</name>
+		<filename>/usr/share/backgrounds/snowdrop/08.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Stones</name>
+		<filename>/usr/share/backgrounds/snowdrop/09.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Sunset</name>
+		<filename>/usr/share/backgrounds/snowdrop/10.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>Lawn</name>
+		<filename>/usr/share/backgrounds/snowdrop/11.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+
+	<wallpaper deleted="false">
+		<name>Lee</name>
+		<filename>/usr/share/backgrounds/snowdrop/12.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+
+</wallpapers>
